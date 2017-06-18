@@ -11,7 +11,7 @@ It facilitates the administration of inventories, with the use of the smart phon
 
 A project to put into practice, all the knowledge acquired in database
 
-## Vista previa:
+## Preview:
 
 <table>
 <tr>
@@ -22,9 +22,9 @@ A project to put into practice, all the knowledge acquired in database
 </tr>
 </table>
 
-### Versión: 1.0
+### Version: 1.0
 - The first version of the application is created
 
-## Licencia
+## License
 
 The content of this repository is under license [Apache License 2.0](https://github.com/Deltarios/InventoryApp/blob/master/LICENSE)
